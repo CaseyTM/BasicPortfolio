@@ -33,10 +33,6 @@ body {
 	font-size: 14px;
 }
 
-.intro-body{
-	padding-top: 400px;
-}
-
 .navbar-inner{
 	background-color: #d3d3d3;
 }
@@ -78,16 +74,23 @@ nav li{
 
 #name{
 	font-family: 'Caveat Brush', cursive;
-	font-size: 70px;
+	font-size: 120px;
+	opacity: .6;
+	padding-top: 300px;
 }
 
 #description{
 	font-family: 'Caveat Brush', cursive;
 	font-size: 20px;
+	opacity: .6;
 }
 
-#word-worms{
+#wordworms{
 	font-size: 20px;
+}
+
+#wordworms-text{
+	opacity: .4;
 }
 
 p{
@@ -122,4 +125,5 @@ p{
 #portfolio-text{
 	font-size: 50px;
 	margin-bottom: 50px;
+	margin-top: 120px;
 }
