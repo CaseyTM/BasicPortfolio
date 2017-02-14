@@ -1,0 +1,125 @@
+body {
+      position: relative; 
+  }
+  #section1 {
+  	padding-top:250px;
+  
+  	height: 1000px;
+  }
+  #section2 {
+  	padding-top:50px;
+  
+  	height: 1000px;
+  }
+  #section3 {
+  	padding-top:50px;
+  
+  	height: 600px;
+  }
+
+body { 
+  background: url(img/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#footer-text{
+	color: white;
+}
+
+#mailto{
+	font-size: 14px;
+}
+
+.intro-body{
+	padding-top: 400px;
+}
+
+.navbar-inner{
+	background-color: #d3d3d3;
+}
+
+#contact{
+	font-size: 38px;
+	opacity: .5;
+}
+
+#contact-box div{
+	margin-top: 85px;
+}
+
+#react-img{
+	width: 100px;
+}
+
+.btn-default{
+	height: 44px;
+	min-width: 235px;
+	max-width: 235px;
+}
+
+nav li{
+	font-family: 'Caveat Brush', cursive;
+	font-size: 18px;
+}
+
+#spacer{
+	margin-left: 200px;
+	font-size: 30px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#navbar-brand li{
+	font-family: 'Caveat Brush', cursive;
+	font-size: 18px;
+}
+
+#name{
+	font-family: 'Caveat Brush', cursive;
+	font-size: 70px;
+}
+
+#description{
+	font-family: 'Caveat Brush', cursive;
+	font-size: 20px;
+}
+
+#word-worms{
+	font-size: 20px;
+}
+
+p{
+	font-family: 'Caveat Brush', cursive;
+}
+
+#skill-summary{
+	font-size: 42px;
+}
+
+.navbar-nav, .navbar-inner{
+	background-color: #d3d3d3;
+}
+
+.nav-items{
+	background-color: #d1d1d1;
+	color: green;
+}
+
+#footer-text{
+	font-size: 30px;
+}
+
+#react-img{
+	font-size: 30px;
+}
+
+#react-box{
+	opacity: .5;
+}
+
+#portfolio-text{
+	font-size: 50px;
+	margin-bottom: 50px;
+}
